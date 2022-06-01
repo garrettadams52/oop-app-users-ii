@@ -6,8 +6,8 @@ In order to gain this new functionality, you'll have to modify your [original](h
 
 ## Requirements
 1. Add a method to your `User` class that allows for creating a new user post.
-2. Add any necessary instance properties to make step 1 work.  What data structure should you use?
-3. Add a class variable that stores the posts from every user.  What data structure should you use?
+2. Add any necessary instance properties to make step 1 work.  What data structure should you use? `Post is a string, instance is an object`
+3. Add a class variable that stores the posts from every user.  What data structure should you use? `a list`
 4. Make sure that the the information stays in sync!
 
 ## Bonus
